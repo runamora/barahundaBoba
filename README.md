@@ -1,4 +1,4 @@
-# baraundaBoba
+# barahundaBoba
 
 La baraunda boba se construye como parte de un registro y exploración sonora de la ciudad. 
 Está inspirada en la obra de Cesar Dávila Andrade, Cabeza de Gallo (http://runa.media/cabeza-de-gallo/).
